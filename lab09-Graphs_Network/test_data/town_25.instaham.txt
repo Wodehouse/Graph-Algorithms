@@ -1,0 +1,108 @@
+Sam's Photo Retailer can reach 25 locations.
+Sam's Photo Retailer can reach Arnold's Convenience Stand in 15.53.
+Sam's Photo Retailer can reach Boar's Bargain Town in 4.95.
+Sam's Photo Retailer can reach Brad's Beer Warehouse in 1.
+Sam's Photo Retailer can reach Cerdotado's Candy City in 7.1.
+Sam's Photo Retailer can reach Cochon's Movie Vault in 13.65.
+Sam's Photo Retailer can reach Gaston's Office Supply Warehouse in 3.95.
+Sam's Photo Retailer can reach Gryllus's Book Ltd. in 16.26.
+Sam's Photo Retailer can reach Hamlet's Gaming Planet in 1.95.
+Sam's Photo Retailer can reach Jimmy's Spa City in 2.95.
+Sam's Photo Retailer can reach Lester's Clothing World in 10.64.
+Sam's Photo Retailer can reach Peter's Furniture Town in 10.83.
+Sam's Photo Retailer can reach Petunia's Bowling Town in 3.86.
+Sam's Photo Retailer can reach Petunia's Produce Stand in 13.82.
+Sam's Photo Retailer can reach Pig's Grocery Hut in 16.36.
+Sam's Photo Retailer can reach Piglet's Furniture Emporkium in 8.12.
+Sam's Photo Retailer can reach Pigling Bland's Ice Cream Shack in 10.36.
+Sam's Photo Retailer can reach Pigma's Jewelry Museum in 2.95.
+Sam's Photo Retailer can reach Rosso's Hat Planet in 2.15.
+Sam's Photo Retailer can reach Sam's Photo Retailer in 0.
+Sam's Photo Retailer can reach Squealer's Gaming Museum in 3.95.
+Sam's Photo Retailer can reach Toby's Auto Service Stand in 4.56.
+Sam's Photo Retailer can reach Trwyth's Spice Shoppe in 11.36.
+Sam's Photo Retailer can reach Wagner's Food Town in 11.36.
+Sam's Photo Retailer can reach Wen's Convenience Stand in 18.54.
+Sam's Photo Retailer can reach Wort's Book World in 13.15.
+
+Brad's Beer Warehouse can reach 25 locations.
+Brad's Beer Warehouse can reach Arnold's Convenience Stand in 14.53.
+Brad's Beer Warehouse can reach Boar's Bargain Town in 5.95.
+Brad's Beer Warehouse can reach Brad's Beer Warehouse in 0.
+Brad's Beer Warehouse can reach Cerdotado's Candy City in 8.1.
+Brad's Beer Warehouse can reach Cochon's Movie Vault in 14.65.
+Brad's Beer Warehouse can reach Gaston's Office Supply Warehouse in 4.95.
+Brad's Beer Warehouse can reach Gryllus's Book Ltd. in 17.26.
+Brad's Beer Warehouse can reach Hamlet's Gaming Planet in 2.95.
+Brad's Beer Warehouse can reach Jimmy's Spa City in 3.95.
+Brad's Beer Warehouse can reach Lester's Clothing World in 11.64.
+Brad's Beer Warehouse can reach Peter's Furniture Town in 11.83.
+Brad's Beer Warehouse can reach Petunia's Bowling Town in 4.86.
+Brad's Beer Warehouse can reach Petunia's Produce Stand in 14.82.
+Brad's Beer Warehouse can reach Pig's Grocery Hut in 17.36.
+Brad's Beer Warehouse can reach Piglet's Furniture Emporkium in 9.12.
+Brad's Beer Warehouse can reach Pigling Bland's Ice Cream Shack in 11.36.
+Brad's Beer Warehouse can reach Pigma's Jewelry Museum in 3.95.
+Brad's Beer Warehouse can reach Rosso's Hat Planet in 3.15.
+Brad's Beer Warehouse can reach Sam's Photo Retailer in 1.
+Brad's Beer Warehouse can reach Squealer's Gaming Museum in 4.95.
+Brad's Beer Warehouse can reach Toby's Auto Service Stand in 5.56.
+Brad's Beer Warehouse can reach Trwyth's Spice Shoppe in 12.36.
+Brad's Beer Warehouse can reach Wagner's Food Town in 12.36.
+Brad's Beer Warehouse can reach Wen's Convenience Stand in 19.54.
+Brad's Beer Warehouse can reach Wort's Book World in 14.15.
+
+Pigling Bland's Ice Cream Shack can reach 25 locations.
+Pigling Bland's Ice Cream Shack can reach Arnold's Convenience Stand in 21.43.
+Pigling Bland's Ice Cream Shack can reach Boar's Bargain Town in 9.5.
+Pigling Bland's Ice Cream Shack can reach Brad's Beer Warehouse in 11.36.
+Pigling Bland's Ice Cream Shack can reach Cerdotado's Candy City in 10.46.
+Pigling Bland's Ice Cream Shack can reach Cochon's Movie Vault in 8.08.
+Pigling Bland's Ice Cream Shack can reach Gaston's Office Supply Warehouse in 8.5.
+Pigling Bland's Ice Cream Shack can reach Gryllus's Book Ltd. in 15.14.
+Pigling Bland's Ice Cream Shack can reach Hamlet's Gaming Planet in 8.5.
+Pigling Bland's Ice Cream Shack can reach Jimmy's Spa City in 7.5.
+Pigling Bland's Ice Cream Shack can reach Lester's Clothing World in 15.19.
+Pigling Bland's Ice Cream Shack can reach Peter's Furniture Town in 21.19.
+Pigling Bland's Ice Cream Shack can reach Petunia's Bowling Town in 6.5.
+Pigling Bland's Ice Cream Shack can reach Petunia's Produce Stand in 18.6.
+Pigling Bland's Ice Cream Shack can reach Pig's Grocery Hut in 12.08.
+Pigling Bland's Ice Cream Shack can reach Piglet's Furniture Emporkium in 7.74.
+Pigling Bland's Ice Cream Shack can reach Pigling Bland's Ice Cream Shack in 0.
+Pigling Bland's Ice Cream Shack can reach Pigma's Jewelry Museum in 7.5.
+Pigling Bland's Ice Cream Shack can reach Rosso's Hat Planet in 8.21.
+Pigling Bland's Ice Cream Shack can reach Sam's Photo Retailer in 10.36.
+Pigling Bland's Ice Cream Shack can reach Squealer's Gaming Museum in 8.5.
+Pigling Bland's Ice Cream Shack can reach Toby's Auto Service Stand in 9.5.
+Pigling Bland's Ice Cream Shack can reach Trwyth's Spice Shoppe in 1.
+Pigling Bland's Ice Cream Shack can reach Wagner's Food Town in 1.
+Pigling Bland's Ice Cream Shack can reach Wen's Convenience Stand in 10.87.
+Pigling Bland's Ice Cream Shack can reach Wort's Book World in 15.35.
+
+Jimmy's Spa City can reach 25 locations.
+Jimmy's Spa City can reach Arnold's Convenience Stand in 13.93.
+Jimmy's Spa City can reach Boar's Bargain Town in 4.
+Jimmy's Spa City can reach Brad's Beer Warehouse in 3.95.
+Jimmy's Spa City can reach Cerdotado's Candy City in 4.15.
+Jimmy's Spa City can reach Cochon's Movie Vault in 10.7.
+Jimmy's Spa City can reach Gaston's Office Supply Warehouse in 3.
+Jimmy's Spa City can reach Gryllus's Book Ltd. in 13.31.
+Jimmy's Spa City can reach Hamlet's Gaming Planet in 1.
+Jimmy's Spa City can reach Jimmy's Spa City in 0.
+Jimmy's Spa City can reach Lester's Clothing World in 9.69.
+Jimmy's Spa City can reach Peter's Furniture Town in 13.78.
+Jimmy's Spa City can reach Petunia's Bowling Town in 1.
+Jimmy's Spa City can reach Petunia's Produce Stand in 11.1.
+Jimmy's Spa City can reach Pig's Grocery Hut in 15.41.
+Jimmy's Spa City can reach Piglet's Furniture Emporkium in 8.73.
+Jimmy's Spa City can reach Pigling Bland's Ice Cream Shack in 7.5.
+Jimmy's Spa City can reach Pigma's Jewelry Museum in 2.
+Jimmy's Spa City can reach Rosso's Hat Planet in 2.71.
+Jimmy's Spa City can reach Sam's Photo Retailer in 2.95.
+Jimmy's Spa City can reach Squealer's Gaming Museum in 3.
+Jimmy's Spa City can reach Toby's Auto Service Stand in 4.
+Jimmy's Spa City can reach Trwyth's Spice Shoppe in 8.5.
+Jimmy's Spa City can reach Wagner's Food Town in 8.5.
+Jimmy's Spa City can reach Wen's Convenience Stand in 18.37.
+Jimmy's Spa City can reach Wort's Book World in 12.2.
+

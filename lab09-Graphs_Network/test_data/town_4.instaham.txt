@@ -1,0 +1,12 @@
+Gaston's Office Supply Warehouse can reach 4 locations.
+Gaston's Office Supply Warehouse can reach Cerdotado's Candy City in 5.51.
+Gaston's Office Supply Warehouse can reach Gaston's Office Supply Warehouse in 0.
+Gaston's Office Supply Warehouse can reach Pigling Bland's Ice Cream Shack in 25.1.
+Gaston's Office Supply Warehouse can reach Pigma's Jewelry Museum in 1.
+
+Pigling Bland's Ice Cream Shack can reach 4 locations.
+Pigling Bland's Ice Cream Shack can reach Cerdotado's Candy City in 19.59.
+Pigling Bland's Ice Cream Shack can reach Gaston's Office Supply Warehouse in 25.1.
+Pigling Bland's Ice Cream Shack can reach Pigling Bland's Ice Cream Shack in 0.
+Pigling Bland's Ice Cream Shack can reach Pigma's Jewelry Museum in 24.1.
+

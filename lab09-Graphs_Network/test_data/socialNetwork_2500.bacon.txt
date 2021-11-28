@@ -1,0 +1,42 @@
+Kevin Bacon knows Pumbaa Bland.
+Pumbaa Bland is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Habeas Trwyth.
+Habeas Trwyth is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Gryllus Corpus.
+Gryllus Corpus is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Archille Strangepork.
+Archille Strangepork is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Truffles Wen.
+Truffles Wen is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Truffles Dorf.
+Truffles Dorf is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Wort Hog.
+Wort Hog is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Hamhock Porker.
+Hamhock Porker knows Wibbly Saddlebottom.
+Wibbly Saddlebottom is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Charlotte Wen.
+Charlotte Wen is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Butasan Homunculus.
+Butasan Homunculus is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jodie Robinson.
+Jodie Robinson knows Gryllus Corpus.
+Gryllus Corpus is 2 steps from Kevin Bacon.
+

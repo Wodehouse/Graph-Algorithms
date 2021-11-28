@@ -1,0 +1,25 @@
+Kevin Bacon knows Jaimie Dengar.
+Jaimie Dengar knows Squigley Pigoon.
+Squigley Pigoon is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Josephine Ham.
+Josephine Ham knows Jared Piggy.
+Jared Piggy is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jaimie Dengar.
+Jaimie Dengar knows Karnac Hog.
+Karnac Hog knows Butasan Bajie.
+Butasan Bajie knows Cochon Danseur.
+Cochon Danseur is 4 steps from Kevin Bacon.
+
+Kevin Bacon knows Cicero Pettitoes.
+Cicero Pettitoes knows Brad Danseur.
+Brad Danseur knows Henry Summer.
+Henry Summer is 3 steps from Kevin Bacon.
+
+Kevin Bacon knows Cicero Pettitoes.
+Cicero Pettitoes is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Jared Watson.
+Jared Watson is 1 step from Kevin Bacon.
+

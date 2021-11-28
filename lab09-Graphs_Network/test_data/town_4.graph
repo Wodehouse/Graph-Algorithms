@@ -1,0 +1,29 @@
+vertex
+Pigma's Jewelry Museum
+vertex
+Cerdotado's Candy City
+vertex
+Pigling Bland's Ice Cream Shack
+vertex
+Gaston's Office Supply Warehouse
+edge
+Pigma's Jewelry Museum
+Cerdotado's Candy City
+4.51
+edge
+Pigma's Jewelry Museum
+Gaston's Office Supply Warehouse
+1.0
+edge
+Cerdotado's Candy City
+Pigling Bland's Ice Cream Shack
+19.59
+edge
+Cerdotado's Candy City
+Gaston's Office Supply Warehouse
+22.42
+edge
+Pigling Bland's Ice Cream Shack
+Gaston's Office Supply Warehouse
+28.57
+end

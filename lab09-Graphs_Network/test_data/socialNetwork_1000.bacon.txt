@@ -1,0 +1,33 @@
+Kevin Bacon knows Francis Watson.
+Francis Watson knows Cochon Trwyth.
+Cochon Trwyth is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Jason Arbuckle.
+Jason Arbuckle knows Tusker Hog.
+Tusker Hog is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Tusker Strangepork.
+Tusker Strangepork knows Wilbur Pig.
+Wilbur Pig is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Francis Watson.
+Francis Watson knows Gouger Pettitoes.
+Gouger Pettitoes is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Tusker Pigoon.
+Tusker Pigoon is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Gullinbursti Hog.
+Gullinbursti Hog knows Peter Pigoon.
+Peter Pigoon is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Pigma Hamm.
+Pigma Hamm is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Grunty Dengar.
+Grunty Dengar is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Justin Stele.
+Justin Stele knows Wort Piggy.
+Wort Piggy is 2 steps from Kevin Bacon.
+

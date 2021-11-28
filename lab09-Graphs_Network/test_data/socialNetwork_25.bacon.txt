@@ -1,0 +1,14 @@
+Kevin Bacon knows Zhu Stele.
+Zhu Stele knows Jodie Robinson.
+Jodie Robinson is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Grunty Dengar.
+Grunty Dengar knows Waddles Hog.
+Waddles Hog is 2 steps from Kevin Bacon.
+
+Kevin Bacon knows Hogzilla Corpus.
+Hogzilla Corpus is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Jaimie Dengar.
+Jaimie Dengar is 1 step from Kevin Bacon.
+

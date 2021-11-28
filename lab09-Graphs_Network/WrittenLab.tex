@@ -1,0 +1,71 @@
+% This LaTeX file contains your written lab questions.  You may answer these
+% questions just by inserting your answer into this document.  You are not
+% *required* to do your homework in LaTeX, but it's quite likely to be easier
+% than e.g. the equation editor in OpenOffice Writer or Microsoft Word.
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{algpseudocode}
+\usepackage{algorithmicx}
+\usepackage{tikz}
+
+\usetikzlibrary{positioning}
+
+\begin{document}
+
+\begin{tikzpicture}[node distance=20mm and 20mm]
+    \tikzstyle{vertex}=[circle,draw]
+    \tikzstyle{edge}=[-stealth]
+    
+    \node[vertex] (A) {A};
+    \node[vertex] (B) [right=of A] {B};
+    \node[vertex] (C) [below=of A] {C};
+    \node[vertex] (D) [right=of C] {D};
+    \node[vertex] (E) [right=of B] {E};
+    \node[vertex] (F) [right=of D] {F};
+    
+    \draw[edge] (A) to node[above] {5} (B);
+    \draw[edge] (A) to node[left] {7} (C);
+    \draw[edge] (B) to node[above left] {1} (C);
+    \draw[edge] (B) to node[left] {4} (D);
+    \draw[edge] (B) to node[above] {8} (E);
+    \draw[edge] (C) to node[above] {2} (D);
+    \draw[edge] (D) to node[above] {8} (F);
+    \draw[edge] (E) to node[left] {6} (F);
+\end{tikzpicture}
+
+\vspace*{5mm}\par\textbf{Problem 1.} Perform a breadth-first search of the graph starting from vertex A.  Give the number of steps to reach \emph{every} other vertex.  Additionally, give the order in which the vertices are \emph{first} witnessed; that is, give the order in which they first enter the exploration queue (and not necessarily the order in which they are explored).\par
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% TODO: put your answer here %%
+Vertices are witnessed in the order A, B, C, D, E then F.
+\\From A to B, 1 step.
+\\From A to C, 1 step.
+\\From A to D, 2 steps.
+\\From A to E, 2 steps.
+\\From A to F, 3 steps.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace*{10mm}\par\textbf{Problem 2.} Use Dijkstra's algorithm on this graph starting from vertex A.  Give the cost of the least-cost path to \emph{every} other vertex.  Additionally, give the order in which the vertices are \emph{first} witnessed; that is, give the order in which they first enter the exploration queue (and not necessarily the order in which they are explored).\par
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% TODO: put your answer here %%
+Vertices enter the exploration queue in the order:
+\\$A \rightarrow 0$, $B \rightarrow 5$, $C \rightarrow 7$, $E \rightarrow 13$, $D \rightarrow 9$, $C \rightarrow 6$, $D \rightarrow 8$, $F \rightarrow 16$, $F \rightarrow 19$.
+\\From A to B, the least cost is 5.
+\\From A to C, the least cost is 6.
+\\From A to E, the least cost is 13.
+\\From A to D, the least cost is 8.
+\\From A to F, the least cost is 16.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace*{10mm}\par\textbf{Problem 3.} Give two valid topological sorts of this graph.\par
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% TODO: put your answer here %%
+First Topological Sort: A, B, E, C, D, F. 
+\\Second Topological Sort: A, B, C, E, D, F.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}

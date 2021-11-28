@@ -1,0 +1,73 @@
+vertex
+Kevin Bacon
+vertex
+Gryllus Floyd
+vertex
+Jared Watson
+vertex
+Ace Watson
+vertex
+Jaimie Dengar
+vertex
+Wibbly Bajie
+vertex
+Pink Pigoon
+vertex
+Oolong Danseur
+edge
+Kevin Bacon
+Gryllus Floyd
+1
+edge
+Kevin Bacon
+Jared Watson
+1
+edge
+Kevin Bacon
+Ace Watson
+1
+edge
+Kevin Bacon
+Jaimie Dengar
+1
+edge
+Kevin Bacon
+Pink Pigoon
+1
+edge
+Kevin Bacon
+Oolong Danseur
+1
+edge
+Gryllus Floyd
+Jaimie Dengar
+1
+edge
+Gryllus Floyd
+Oolong Danseur
+1
+edge
+Jared Watson
+Ace Watson
+1
+edge
+Jared Watson
+Jaimie Dengar
+1
+edge
+Jared Watson
+Oolong Danseur
+1
+edge
+Ace Watson
+Jaimie Dengar
+1
+edge
+Wibbly Bajie
+Pink Pigoon
+1
+edge
+Pink Pigoon
+Oolong Danseur
+1
+end

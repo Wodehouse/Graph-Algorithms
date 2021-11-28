@@ -1,0 +1,703 @@
+vertex
+Pigma's Jewelry Museum
+vertex
+Cerdotado's Candy City
+vertex
+Pigling Bland's Ice Cream Shack
+vertex
+Gaston's Office Supply Warehouse
+vertex
+Petunia's Bowling Town
+vertex
+Sam's Photo Retailer
+vertex
+Jimmy's Spa City
+vertex
+Arnold's Convenience Stand
+vertex
+Squealer's Gaming Museum
+vertex
+Petunia's Produce Stand
+vertex
+Brad's Beer Warehouse
+vertex
+Wen's Convenience Stand
+vertex
+Gryllus's Book Ltd.
+vertex
+Pig's Grocery Hut
+vertex
+Wort's Book World
+vertex
+Piglet's Furniture Emporkium
+vertex
+Trwyth's Spice Shoppe
+vertex
+Cochon's Movie Vault
+vertex
+Wagner's Food Town
+vertex
+Boar's Bargain Town
+vertex
+Lester's Clothing World
+vertex
+Toby's Auto Service Stand
+vertex
+Hamlet's Gaming Planet
+vertex
+Rosso's Hat Planet
+vertex
+Peter's Furniture Town
+edge
+Pigma's Jewelry Museum
+Cerdotado's Candy City
+4.51
+edge
+Pigma's Jewelry Museum
+Pigling Bland's Ice Cream Shack
+18.86
+edge
+Pigma's Jewelry Museum
+Gaston's Office Supply Warehouse
+1.0
+edge
+Pigma's Jewelry Museum
+Petunia's Bowling Town
+1.0
+edge
+Pigma's Jewelry Museum
+Sam's Photo Retailer
+17.26
+edge
+Pigma's Jewelry Museum
+Jimmy's Spa City
+5.71
+edge
+Pigma's Jewelry Museum
+Arnold's Convenience Stand
+21.02
+edge
+Pigma's Jewelry Museum
+Squealer's Gaming Museum
+1.0
+edge
+Pigma's Jewelry Museum
+Petunia's Produce Stand
+16.87
+edge
+Pigma's Jewelry Museum
+Brad's Beer Warehouse
+6.88
+edge
+Pigma's Jewelry Museum
+Wen's Convenience Stand
+19.73
+edge
+Pigma's Jewelry Museum
+Gryllus's Book Ltd.
+31.57
+edge
+Pigma's Jewelry Museum
+Pig's Grocery Hut
+13.41
+edge
+Pigma's Jewelry Museum
+Wort's Book World
+11.83
+edge
+Pigma's Jewelry Museum
+Piglet's Furniture Emporkium
+8.89
+edge
+Pigma's Jewelry Museum
+Trwyth's Spice Shoppe
+17.7
+edge
+Pigma's Jewelry Museum
+Cochon's Movie Vault
+37.46
+edge
+Pigma's Jewelry Museum
+Wagner's Food Town
+9.43
+edge
+Pigma's Jewelry Museum
+Boar's Bargain Town
+13.95
+edge
+Pigma's Jewelry Museum
+Lester's Clothing World
+7.69
+edge
+Pigma's Jewelry Museum
+Toby's Auto Service Stand
+22.44
+edge
+Pigma's Jewelry Museum
+Hamlet's Gaming Planet
+1.0
+edge
+Pigma's Jewelry Museum
+Rosso's Hat Planet
+16.97
+edge
+Pigma's Jewelry Museum
+Peter's Furniture Town
+15.84
+edge
+Cerdotado's Candy City
+Pigling Bland's Ice Cream Shack
+19.59
+edge
+Cerdotado's Candy City
+Gaston's Office Supply Warehouse
+22.42
+edge
+Cerdotado's Candy City
+Petunia's Bowling Town
+5.99
+edge
+Cerdotado's Candy City
+Sam's Photo Retailer
+12.66
+edge
+Cerdotado's Candy City
+Jimmy's Spa City
+4.15
+edge
+Cerdotado's Candy City
+Arnold's Convenience Stand
+13.0
+edge
+Cerdotado's Candy City
+Squealer's Gaming Museum
+19.73
+edge
+Cerdotado's Candy City
+Petunia's Produce Stand
+18.97
+edge
+Cerdotado's Candy City
+Brad's Beer Warehouse
+10.37
+edge
+Cerdotado's Candy City
+Wen's Convenience Stand
+20.15
+edge
+Cerdotado's Candy City
+Gryllus's Book Ltd.
+9.16
+edge
+Cerdotado's Candy City
+Pig's Grocery Hut
+28.48
+edge
+Cerdotado's Candy City
+Wort's Book World
+25.45
+edge
+Cerdotado's Candy City
+Piglet's Furniture Emporkium
+19.01
+edge
+Cerdotado's Candy City
+Trwyth's Spice Shoppe
+9.46
+edge
+Cerdotado's Candy City
+Cochon's Movie Vault
+28.05
+edge
+Cerdotado's Candy City
+Wagner's Food Town
+21.21
+edge
+Cerdotado's Candy City
+Toby's Auto Service Stand
+23.23
+edge
+Cerdotado's Candy City
+Hamlet's Gaming Planet
+13.48
+edge
+Cerdotado's Candy City
+Rosso's Hat Planet
+23.74
+edge
+Cerdotado's Candy City
+Peter's Furniture Town
+34.7
+edge
+Pigling Bland's Ice Cream Shack
+Gaston's Office Supply Warehouse
+28.57
+edge
+Pigling Bland's Ice Cream Shack
+Petunia's Bowling Town
+6.5
+edge
+Pigling Bland's Ice Cream Shack
+Sam's Photo Retailer
+33.32
+edge
+Pigling Bland's Ice Cream Shack
+Jimmy's Spa City
+23.61
+edge
+Pigling Bland's Ice Cream Shack
+Arnold's Convenience Stand
+33.14
+edge
+Pigling Bland's Ice Cream Shack
+Squealer's Gaming Museum
+9.64
+edge
+Pigling Bland's Ice Cream Shack
+Petunia's Produce Stand
+28.55
+edge
+Pigling Bland's Ice Cream Shack
+Brad's Beer Warehouse
+28.57
+edge
+Pigling Bland's Ice Cream Shack
+Wen's Convenience Stand
+10.87
+edge
+Pigling Bland's Ice Cream Shack
+Gryllus's Book Ltd.
+15.14
+edge
+Pigling Bland's Ice Cream Shack
+Pig's Grocery Hut
+12.08
+edge
+Pigling Bland's Ice Cream Shack
+Wort's Book World
+15.35
+edge
+Pigling Bland's Ice Cream Shack
+Piglet's Furniture Emporkium
+7.74
+edge
+Pigling Bland's Ice Cream Shack
+Trwyth's Spice Shoppe
+1.0
+edge
+Pigling Bland's Ice Cream Shack
+Cochon's Movie Vault
+8.08
+edge
+Pigling Bland's Ice Cream Shack
+Wagner's Food Town
+1.0
+edge
+Pigling Bland's Ice Cream Shack
+Boar's Bargain Town
+31.09
+edge
+Pigling Bland's Ice Cream Shack
+Lester's Clothing World
+27.45
+edge
+Pigling Bland's Ice Cream Shack
+Toby's Auto Service Stand
+26.36
+edge
+Pigling Bland's Ice Cream Shack
+Hamlet's Gaming Planet
+8.72
+edge
+Gaston's Office Supply Warehouse
+Petunia's Bowling Town
+17.01
+edge
+Gaston's Office Supply Warehouse
+Sam's Photo Retailer
+23.45
+edge
+Gaston's Office Supply Warehouse
+Jimmy's Spa City
+31.6
+edge
+Gaston's Office Supply Warehouse
+Squealer's Gaming Museum
+9.07
+edge
+Gaston's Office Supply Warehouse
+Petunia's Produce Stand
+31.92
+edge
+Gaston's Office Supply Warehouse
+Brad's Beer Warehouse
+16.63
+edge
+Gaston's Office Supply Warehouse
+Wen's Convenience Stand
+27.68
+edge
+Gaston's Office Supply Warehouse
+Pig's Grocery Hut
+21.44
+edge
+Gaston's Office Supply Warehouse
+Wort's Book World
+9.2
+edge
+Gaston's Office Supply Warehouse
+Piglet's Furniture Emporkium
+15.05
+edge
+Gaston's Office Supply Warehouse
+Trwyth's Spice Shoppe
+25.12
+edge
+Gaston's Office Supply Warehouse
+Cochon's Movie Vault
+26.52
+edge
+Gaston's Office Supply Warehouse
+Wagner's Food Town
+19.82
+edge
+Gaston's Office Supply Warehouse
+Boar's Bargain Town
+1.0
+edge
+Gaston's Office Supply Warehouse
+Lester's Clothing World
+9.48
+edge
+Gaston's Office Supply Warehouse
+Toby's Auto Service Stand
+1.0
+edge
+Gaston's Office Supply Warehouse
+Hamlet's Gaming Planet
+17.51
+edge
+Gaston's Office Supply Warehouse
+Rosso's Hat Planet
+19.46
+edge
+Gaston's Office Supply Warehouse
+Peter's Furniture Town
+39.88
+edge
+Petunia's Bowling Town
+Sam's Photo Retailer
+18.94
+edge
+Petunia's Bowling Town
+Jimmy's Spa City
+1.0
+edge
+Petunia's Bowling Town
+Arnold's Convenience Stand
+19.06
+edge
+Petunia's Bowling Town
+Squealer's Gaming Museum
+13.86
+edge
+Petunia's Bowling Town
+Petunia's Produce Stand
+14.11
+edge
+Petunia's Bowling Town
+Brad's Beer Warehouse
+17.44
+edge
+Petunia's Bowling Town
+Wen's Convenience Stand
+17.67
+edge
+Petunia's Bowling Town
+Gryllus's Book Ltd.
+31.35
+edge
+Petunia's Bowling Town
+Pig's Grocery Hut
+21.02
+edge
+Petunia's Bowling Town
+Wort's Book World
+18.65
+edge
+Petunia's Bowling Town
+Piglet's Furniture Emporkium
+7.73
+edge
+Petunia's Bowling Town
+Trwyth's Spice Shoppe
+16.81
+edge
+Petunia's Bowling Town
+Cochon's Movie Vault
+21.83
+edge
+Petunia's Bowling Town
+Wagner's Food Town
+16.36
+edge
+Petunia's Bowling Town
+Boar's Bargain Town
+25.18
+edge
+Petunia's Bowling Town
+Lester's Clothing World
+12.72
+edge
+Petunia's Bowling Town
+Toby's Auto Service Stand
+22.12
+edge
+Petunia's Bowling Town
+Hamlet's Gaming Planet
+9.84
+edge
+Petunia's Bowling Town
+Rosso's Hat Planet
+1.71
+edge
+Petunia's Bowling Town
+Peter's Furniture Town
+21.57
+edge
+Sam's Photo Retailer
+Jimmy's Spa City
+22.55
+edge
+Sam's Photo Retailer
+Arnold's Convenience Stand
+25.67
+edge
+Sam's Photo Retailer
+Squealer's Gaming Museum
+20.51
+edge
+Sam's Photo Retailer
+Petunia's Produce Stand
+13.82
+edge
+Sam's Photo Retailer
+Brad's Beer Warehouse
+1.0
+edge
+Sam's Photo Retailer
+Wen's Convenience Stand
+18.54
+edge
+Sam's Photo Retailer
+Gryllus's Book Ltd.
+29.33
+edge
+Sam's Photo Retailer
+Wort's Book World
+34.86
+edge
+Sam's Photo Retailer
+Piglet's Furniture Emporkium
+8.12
+edge
+Sam's Photo Retailer
+Trwyth's Spice Shoppe
+15.66
+edge
+Sam's Photo Retailer
+Wagner's Food Town
+22.78
+edge
+Sam's Photo Retailer
+Boar's Bargain Town
+22.45
+edge
+Sam's Photo Retailer
+Lester's Clothing World
+20.29
+edge
+Sam's Photo Retailer
+Toby's Auto Service Stand
+4.56
+edge
+Sam's Photo Retailer
+Hamlet's Gaming Planet
+1.95
+edge
+Sam's Photo Retailer
+Rosso's Hat Planet
+2.15
+edge
+Sam's Photo Retailer
+Peter's Furniture Town
+10.83
+edge
+Jimmy's Spa City
+Arnold's Convenience Stand
+13.93
+edge
+Jimmy's Spa City
+Squealer's Gaming Museum
+5.64
+edge
+Jimmy's Spa City
+Petunia's Produce Stand
+11.1
+edge
+Jimmy's Spa City
+Brad's Beer Warehouse
+17.35
+edge
+Jimmy's Spa City
+Wen's Convenience Stand
+29.84
+edge
+Jimmy's Spa City
+Gryllus's Book Ltd.
+14.69
+edge
+Jimmy's Spa City
+Pig's Grocery Hut
+31.39
+edge
+Jimmy's Spa City
+Wort's Book World
+34.99
+edge
+Jimmy's Spa City
+Piglet's Furniture Emporkium
+24.15
+edge
+Jimmy's Spa City
+Trwyth's Spice Shoppe
+23.28
+edge
+Jimmy's Spa City
+Cochon's Movie Vault
+10.7
+edge
+Jimmy's Spa City
+Wagner's Food Town
+28.0
+edge
+Jimmy's Spa City
+Boar's Bargain Town
+35.82
+edge
+Jimmy's Spa City
+Lester's Clothing World
+14.8
+edge
+Jimmy's Spa City
+Toby's Auto Service Stand
+23.04
+edge
+Jimmy's Spa City
+Hamlet's Gaming Planet
+1.0
+edge
+Jimmy's Spa City
+Rosso's Hat Planet
+22.88
+edge
+Jimmy's Spa City
+Peter's Furniture Town
+17.72
+edge
+Arnold's Convenience Stand
+Squealer's Gaming Museum
+24.39
+edge
+Arnold's Convenience Stand
+Petunia's Produce Stand
+5.93
+edge
+Arnold's Convenience Stand
+Brad's Beer Warehouse
+14.53
+edge
+Arnold's Convenience Stand
+Wen's Convenience Stand
+30.18
+edge
+Arnold's Convenience Stand
+Gryllus's Book Ltd.
+14.84
+edge
+Arnold's Convenience Stand
+Piglet's Furniture Emporkium
+25.93
+edge
+Arnold's Convenience Stand
+Trwyth's Spice Shoppe
+21.9
+edge
+Arnold's Convenience Stand
+Cochon's Movie Vault
+18.02
+edge
+Arnold's Convenience Stand
+Wagner's Food Town
+28.58
+edge
+Arnold's Convenience Stand
+Hamlet's Gaming Planet
+13.98
+edge
+Arnold's Convenience Stand
+Rosso's Hat Planet
+23.44
+edge
+Arnold's Convenience Stand
+Peter's Furniture Town
+25.66
+edge
+Squealer's Gaming Museum
+Gryllus's Book Ltd.
+14.75
+edge
+Squealer's Gaming Museum
+Pig's Grocery Hut
+17.48
+edge
+Squealer's Gaming Museum
+Wort's Book World
+21.14
+edge
+Squealer's Gaming Museum
+Cochon's Movie Vault
+10.13
+edge
+Squealer's Gaming Museum
+Boar's Bargain Town
+20.28
+edge
+Squealer's Gaming Museum
+Lester's Clothing World
+31.6
+edge
+Squealer's Gaming Museum
+Toby's Auto Service Stand
+28.49
+edge
+Squealer's Gaming Museum
+Rosso's Hat Planet
+20.69
+edge
+Squealer's Gaming Museum
+Peter's Furniture Town
+17.4
+edge
+Brad's Beer Warehouse
+Lester's Clothing World
+17.15
+edge
+Wen's Convenience Stand
+Pig's Grocery Hut
+14.62
+edge
+Wort's Book World
+Boar's Bargain Town
+26.34
+end

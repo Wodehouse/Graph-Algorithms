@@ -1,0 +1,8 @@
+Kevin Bacon knows Jaimie Dengar.
+Jaimie Dengar is 1 step from Kevin Bacon.
+
+Kevin Bacon knows Pink Pigoon.
+Pink Pigoon is 1 step from Kevin Bacon.
+
+Kevin Bacon is 0 steps from Kevin Bacon.
+
